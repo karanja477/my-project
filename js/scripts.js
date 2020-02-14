@@ -4,12 +4,12 @@ function formRefresh() {
 }
 function akanNames() {
   var birthDate=document.getElementById("birthdate").value.toString();
-  console.log("birthdate is" + birthDate);
+
   var dateEntered=birthDate.split("-");
   var day=parseInt(dateEntered[2]);
   var month=parseInt(dateEntered[1]);
   var year=parseInt(dateEntered[0]);
-  console.log("day is:" + day + "month:" + month);
+
 
   // var centry=(year-1)/100+1;
   var centry = dateEntered[0].substr(0, 2);
@@ -30,7 +30,7 @@ function akanNames() {
   var dayTheWeek=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
   // var dOfWeek = Math.round(dayOfTheWeek);
   var dOfWeek = dayTheWeek[(Math.round(dayOfTheWeek))] ;
-  console.log("day of week:" + dOfWeek + "  gender" + gender);
+  
 
   if(dOfWeek !== null){
     if(gender==="Male"){
