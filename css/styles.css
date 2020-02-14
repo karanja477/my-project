@@ -13,7 +13,7 @@ body {
   font-size: 1.0rem;
 }
 .test-box {
-  border:6px solid orange;
+  border:6px solid black;
   padding: 10px;
   margin: 30px;
   border-right: 6px solid orange;
