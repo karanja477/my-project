@@ -17,8 +17,8 @@ body {
   padding: 10px;
   margin: 30px;
   border-right: 6px solid orange;
-  border-top: 6px solid black;
-  border-bottom: 8px solid black;
+  border-top: 6px solid orange;
+  border-bottom: 8px solid orange;
 
 }
 h1, .h1 {
@@ -34,11 +34,6 @@ h2 {
 .sidebar {
   width: 30%
 
-<<<<<<< HEAD
-form_data {
-  color: red;
-=======
 button {
   color: blue;
->>>>>>> 81a29eaec628787576c795630d46d469d72bd44e
 }
