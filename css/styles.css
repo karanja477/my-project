@@ -3,7 +3,7 @@ h1 {
   text-align: center;
 }
 body {
-  background-image: url('https://comps.canstockphoto.com/ghana-country-on-black-background-with-eps-vectors_csp75464434.jpg');
+  background-image: url('https://ak1.picdn.net/shutterstock/videos/11639441/thumb/1.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   font-family: inherit;
@@ -13,12 +13,12 @@ body {
   font-size: 1.0rem;
 }
 .test-box {
-  border:6px solid black;
+  border:6px solid green;
   padding: 10px;
   margin: 30px;
-  border-right: 6px solid black;
-  border-top: 6px solid black;
-  border-bottom: 8px solid black;
+  border-right: 6px solid green;
+  border-top: 6px solid green;
+  border-bottom: 8px solid green;
 
 }
 h1, .h1 {
