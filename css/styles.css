@@ -1,0 +1,44 @@
+h1 {
+  color: lightblue;
+  text-align: center;
+}
+body {
+  background-image: url('https://static01.nyt.com/images/2012/06/04/nyregion/ASHANTI1/ASHANTI1-articleLarge.jpg?quality=75&auto=webp&disable=upscale');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: inherit;
+  background-color: black;
+  text-align: justify;
+  color: white;
+  font-size: 1.0rem;
+}
+.test-box {
+  border:6px solid orange;
+  padding: 10px;
+  margin: 30px;
+  border-right: 6px solid orange;
+  border-top: 6px solid black;
+  border-bottom: 8px solid black;
+
+}
+h1, .h1 {
+  font-size: 1.40rem;
+}
+
+h2 {
+  color: yellow;
+  text-align: left;
+  font-size: 0.9rem;
+
+}
+.sidebar {
+  width: 30%
+
+<<<<<<< HEAD
+form_data {
+  color: red;
+=======
+button {
+  color: blue;
+>>>>>>> 81a29eaec628787576c795630d46d469d72bd44e
+}
