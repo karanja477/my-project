@@ -1,4 +1,4 @@
-# My-Project: Akan Naming SYstems in Ghana
+# My-Project: Akan Naming Systems in Ghana
 Web-application allocating the name of the child based on gender and birth date. The Web Application requires an individual to select the date and the gender to get the day and its corresponding name.
 
 ##set up instructions:
